@@ -14,5 +14,5 @@ We had great fun organizing the first [deep learning day](https://sites.google.c
 Details can be found [abstract submission](abstract)
 
 
-## Program: stay tuned
+### Program: stay tuned
 Will probably go from 9am to 5pm.
