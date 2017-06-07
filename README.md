@@ -1,36 +1,18 @@
 ## Deep Learning Day
 
-We are please to anounce a second workshop in deep learning.
+We had great fun organizing the first [deep learning day](https://sites.google.com/site/sdsdlday2016/) and are please to anounce a second run on 10/22/2017. We would like to have an **active participation** and encourage you send in an abstract for a poster or talk by 1st of August 2017. Note that the **number of participants will be limited to 60** persons, so poster presenters have a much greater chance to take part at the workshop.
 
+### Important Facts
 * Dates 
-  ** Date of the workshop 22. September 2017
-  ** 1st of August deadline posters / talks abstract
-  ** 15th of August Opening of registration
+  * Date of the workshop 22. September 2017
+  * 1st of August deadline posters / talks abstract
+  * 14th of August notification of acceptance 
+  * 15th of August Opening of registration (cost approx. 50 CHF)
+* Location: ZHAW in Winterthur (Switzerland)
 
-(2016 Deep Learning Workshop)[https://sites.google.com/site/sdsdlday2016/]  
+### Details of the abstract submission
+Details can be found [abstract submission](abstract)
 
 
-* Date of the Workshop 
-* 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tensorchiefs/dlday2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Program: stay tuned
+Will probably go from 9am to 5pm.
