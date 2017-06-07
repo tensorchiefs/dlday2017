@@ -1,18 +1,17 @@
-## Welcome to GitHub Pages
+## Deep Learning Day
 
-You can use the [editor on GitHub](https://github.com/tensorchiefs/dlday2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are please to anounce a second workshop in deep learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Dates 
+  ** Date of the workshop 22. September 2017
+  ** 1st of August deadline posters / talks abstract
+  ** 15th of August Opening of registration
 
-### Markdown
+(2016 Deep Learning Workshop)[https://sites.google.com/site/sdsdlday2016/]  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+* Date of the Workshop 
+* 
 ### Header 3
 
 - Bulleted
