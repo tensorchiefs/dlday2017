@@ -11,7 +11,7 @@ We had great fun organizing the first [deep learning day](https://sites.google.c
 * Location: ZHAW in Winterthur (Switzerland)
 
 ### Details of the abstract submission
-Details can be found [abstract submission](docs/abstract)
+Details can be found [abstract submission](abstract)
 
 
 ### Program: stay tuned
