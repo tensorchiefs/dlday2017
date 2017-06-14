@@ -5,7 +5,7 @@ title: Abstract Submission
 ---
 
 ## Abstract for the dlday2017
-Please submitt your abstract to oliver.duerr@zhaw.ch and beate.sick@zhaw.ch with the name dlday2017 in the subject line.
+Please submitt your abstract to oliver.duerr@zhaw.ch and beate.sick@zhaw.ch with the name dlday2017 in the subject.
 
 Please use the following form:
 
@@ -17,11 +17,11 @@ Title of contribution:
 
 Please choose by tickmark, whether you like to contribute with
 
-[ ] Poster
+[ ] a Poster
 
-[ ] Poster and spotlight (approx 3 minutes) talk
+[ ] a Poster and a spotlight talk (approx 3 minutes) 
 
-[ ] Poster and 30 minutes talk
+[ ] a Poster and a 30 minute talk
 
 Abstract (maximal 1 page):
 
