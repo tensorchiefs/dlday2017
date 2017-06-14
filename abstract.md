@@ -10,8 +10,11 @@ Please submitt your abstract to oliver.duerr@zhaw.ch and beate.sick@zhaw.ch with
 Please use the following form:
 
 Name(s):
+
 Affiliation(s):
-Title:
+
+Title of contribution:
+
 Please choose by tickmark, whether you like to contribute with
 
 [ ] Poster
