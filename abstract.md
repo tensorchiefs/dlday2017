@@ -15,7 +15,9 @@ Title:
 Please choose by tickmark, whether you like to contribute with
 
 [ ] Poster
+
 [ ] Poster and spotlight (approx 3 minutes) talk
+
 [ ] Poster and 30 minutes talk
 
 Abstract (maximal 1 page):
