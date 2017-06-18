@@ -22,3 +22,5 @@ Details can be found [abstract submission](abstract)
 
 ### Program: stay tuned
 Will probably go from 9am to 5pm.
+Morning: First tutorial and two 30 minute talks.
+Afternoon: Second tutorial, spotlight talks and poster session.
