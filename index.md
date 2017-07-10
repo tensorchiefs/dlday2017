@@ -23,6 +23,6 @@ Details can be found on [abstract submission](abstract)
 ### Program: preliminary / stay tuned
 Will probably go from 9am to 5pm.
 
-Morning: First hans-on-tutorial provided by NVIDIA Deep Learning Institute and two 30 minute talks.
+Morning: First hands-on-tutorial provided by NVIDIA Deep Learning Institute and two 30 minute talks.
 
-Afternoon: Second hans-on-tutorial provided by NVIDIA Deep Learning Institute, spotlight talks and poster session.
+Afternoon: Second hands-on-tutorial provided by NVIDIA Deep Learning Institute, spotlight talks and poster session.
