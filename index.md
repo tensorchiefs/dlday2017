@@ -26,3 +26,5 @@ Will probably go from 9am to 5pm.
 Morning: First hands-on-tutorial provided by NVIDIA Deep Learning Institute and two 30 minute talks.
 
 Afternoon: Second hands-on-tutorial provided by NVIDIA Deep Learning Institute, spotlight talks and poster session.
+
+**Organization by Beate Sick, Oliver Dürr and Elvs Murina**
