@@ -30,4 +30,4 @@ Morning: First hands-on-tutorial provided by NVIDIA Deep Learning Institute and 
 
 Afternoon: Second hands-on-tutorial provided by NVIDIA Deep Learning Institute, spotlight talks and poster session.
 
-**Organization by Beate Sick, Oliver Dürr and Elvs Murina**
+**Organization by Beate Sick, Oliver Dürr and Elivs Murina**
