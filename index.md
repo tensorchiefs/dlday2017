@@ -36,7 +36,7 @@ Time | Presenter | Topic
 13:30 - 14:10 | Dirk von Grünigen (t.b.c) | [Natural Language Dialogues with Sequence-to-Sequence Learning](grun.md)
 14:10 - 15:30 | Gunter Roth (NVIDIA) | [Modelling Time Series Data with Recurrent Neural Networks in Keras](https://developer.nvidia.com/dli/onlinelabs)
 15:30 - 16:00 | Various | Spotlight Talks and closing
-16:00 -  | You | Posters and Apero
+16:00 -  | You | [Posters](posters.md) and Apero
 
 
 **Organization by Beate Sick, Oliver Dürr and Elvis Murina**
