@@ -46,3 +46,22 @@ The proposed solution is a DNN powered medical-audio compiler(MAC). Analogous to
 
 Making the process completely objective reduces the errors caused by the existing subjective or partial-subjective alternatives. It also reduces the risk of breach of confidentiality of the audio files when they are outsourced. D-MAC fastens the process and can be maintained in-house by hospitals/healthcare professionals. i.e. no need of outsourcing at all.
 
+### Fully Convolutional Neural Networks for Newspaper Article Segmentation
+Benjamin Meier (ZHAW)
+
+#### Abstract
+Segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based
+information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring. We present a semantic segmentation approach based on the visual appearance of each page. We apply a fully convolutional neural network (FCN) that we train in an end-to-end fashion to transform the input image into a segmentation mask in one pass. We show experimentally that the FCN performs very well: it outperforms a deep learning-based commercial solution by a large margin in terms of segmentation quality while in addition being computationally two orders of magnitude more efficient.
+ 
+### Deep Learning for classification of Non-Small Cell Lung Cancer histologic subtypes 
+Elvis Murina (ZHAW),Ruben Casanova (USZ),  Martina Haberecker (USZ), Hanna Honcharova-Biletska (USZ), Bart Vrugt (USZ), Alex Soltermann(USZ) ,Beate Sick (ZHAW), Oliver Dürr(ZHAW)
+
+#### Abstract 
+Non-small cell lung cancer (NSCLC) is the most common type of lung cancer. Adenocarcinoma (ADC) and squamous cell carcinoma (LSCC), the two main subtypes. ADC and LSCLC can be often distinguished by trained pathologists based on formation of glands in ADC or by the presence of keratin and/or intercellular desmosomes for LSCC which can be identified by visually checking histologic slides in an optical microscope. In clinical practice, histologic subtyping is an important factor for treatment decisions, as different therapies are proposed to non-squamous NSCLC due to higher toxicity or reduced efficacy in LSCC.
+
+We have developed a CNN to differentiate ADC from LSCC on a cohort consisting of 208 NSCLC patients. Patients cohorts were split into a training set (n=140 patients) and validation set (n=68). The performances of the CNN were evaluated on the validation set and are compared with the results of three experienced pathologists. In addition we have used a pretrained CNN of ImageNet for unsupervised feature extraction of the images and show results of 2D representations allowing for subgroup identification without relying on any expert labels.
+
+
+
+
+
