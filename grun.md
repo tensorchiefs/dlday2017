@@ -1,6 +1,6 @@
 
 ## Natural Language Dialogues with Sequence-to-Sequence Learning
-Dirk von Grünigen, Jan Deriu, Mark Cieliebak
+Dirk von Grünigen, Jan Deriu, Mark Cieliebak (ZHAW)
 
 Chatbots have recently become a focus of broad interest, since they offer entertainment and business 
 value at the same time. Recent advances in deep learning allow to generate chatbots (or dialogue systems) end-to-end, 
