@@ -17,7 +17,7 @@ We had great fun organizing the first [deep learning day](https://sites.google.c
 * Location: [ZHAW in Winterthur (Switzerland)](https://www.google.com/maps/place/47%C2%B029'48.6%22N+8%C2%B043'48.0%22E/@47.496818,8.730752,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d47.496828!4d8.73?hl=en-US)
 
 ### Registration
-* Please register via: https://ch.xing-events.com/GYHVLLN.html (opens on August 15th for non-presenters)
+* Please register via: [https://ch.xing-events.com/GYHVLLN.html](https://ch.xing-events.com/GYHVLLN.html) (opens on August 15th for non-presenters)
 
 ### Details of the abstract submission
 Details can be found on [abstract submission](abstract)
