@@ -1,10 +1,11 @@
 ## Poster Contributions
 
-### Image based classification using CNN for stroke detection
-L. Herzog^{1}, E. Murina^{2}, S. Wegener^{1}, B. Sick^{1,2}
+Please note that some contributions are still pending
 
-1. UZH
-2. ZHAW
+
+### Image based classification using CNN for stroke detection
+L. Herzog (UZH), E. Murina (ZHAW), S. Wegener (USZ), B. Sick(UZH, ZHAW)
+
 
 #### Abstract
 **Background:** Strokes are worldwide the second frequent cause of death. They mainly manifest as ischemic strokes which are diagnosed by using magnetic resonance imaging (MRI) techniques. Automatic detection of strokes can speed up the decision making process about interventions and treatment in clinical practice which is essential for a beneficial patient outcome.
