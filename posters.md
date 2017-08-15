@@ -30,7 +30,8 @@ Sven Hirsch^{2}
 </SmallText>
 
 #### Abstract
-Provided soon
+Intracranial aneurysms are focal malformations of cerebral arteries that indicate regions on the arterial wall with an increased risk of rupture, often causing severe brain damage or even death. On the search for patterns in the morphology and hemodynamic flow structure that may be relevant for the outcome prediction and clinical decision making, we aim at analyzing large amounts of MR and CT angiographies (several thousands). For this purpose, an automated detection and isolation system for aneurysms in 3D medical imaging data is required. In these days, deep learning proved to be a powerful tool to process large amounts of image data and to reveal underlying patterns in the data. However, due to the lack of standardization of medical imaging protocols and the following difficulty of accurate segmentation of lesioned parts from monochromatic 2D images, the design of a deep learning algorithm could be a delicate task. In our contribution, we present our approach to these problems.
+
 
 ### D-MAC : DNN powered Medical-Audio Compiler
 Ketaki Joshi (NVIDEA)
