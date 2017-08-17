@@ -31,7 +31,7 @@ Time | Presenter | Topic
 9:15 - 9:30  | Oliver and Beate | Welcome
 9:30 - 10:10 | Kevin Mader (4 Quant) | [Approaches and Challegenges for using Artificial Inteligence in Medial Imaging](mader.md) 
 10:10 - 10:30 | Coffee Break | Coffe Break
-10:30 - 12:15 | Gunter Roth (NVIDIA) | [Medical Image Analysis with R and MXNet (to be confirmed)](https://developer.nvidia.com/dli/onlinelabs)
+10:30 - 12:15 | Gunter Roth (NVIDIA) | [Medical Image Analysis with R and MXNet](https://developer.nvidia.com/dli/onlinelabs)
 12:15 - 13:30 | -- | Lunch at your own expense (e.g. Mensa ZHAW)
 13:30 - 14:10 | Dirk von Grünigen (t.b.c) | [Natural Language Dialogues with Sequence-to-Sequence Learning](grun.md)
 14:10 - 15:30 | Gunter Roth (NVIDIA) | [Modelling Time Series Data with Recurrent Neural Networks in Keras](https://developer.nvidia.com/dli/onlinelabs)
