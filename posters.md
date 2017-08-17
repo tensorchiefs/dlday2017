@@ -23,10 +23,10 @@ Conclusion: We developed three models which provide good prediction results in s
 ### Automatic detection and localization of intracranial aneurysms by means of deep learning.
 
 <SmallText>
-Kazuhiro Watanabe^{1,2} 
-Norman Juchler^{2,3} 
-Hitomi Anzai4 Makoto Ohta^{5}
-Sven Hirsch^{2}
+Kazuhiro Watanabe (1,2), 
+Norman Juchler (2,3),  
+Hitomi Anzai4 Makoto Ohta (5),
+Sven Hirsch (2)
 </SmallText>
 
 Affiliations:
@@ -69,6 +69,14 @@ Elvis Murina (ZHAW),Ruben Casanova (USZ),  Martina Haberecker (USZ), Hanna Honch
 Non-small cell lung cancer (NSCLC) is the most common type of lung cancer. Adenocarcinoma (ADC) and squamous cell carcinoma (LSCC), the two main subtypes. ADC and LSCLC can be often distinguished by trained pathologists based on formation of glands in ADC or by the presence of keratin and/or intercellular desmosomes for LSCC which can be identified by visually checking histologic slides in an optical microscope. In clinical practice, histologic subtyping is an important factor for treatment decisions, as different therapies are proposed to non-squamous NSCLC due to higher toxicity or reduced efficacy in LSCC.
 
 We have developed a CNN to differentiate ADC from LSCC on a cohort consisting of 208 NSCLC patients. Patients cohorts were split into a training set (n=140 patients) and validation set (n=68). The performances of the CNN were evaluated on the validation set and are compared with the results of three experienced pathologists. In addition we have used a pretrained CNN of ImageNet for unsupervised feature extraction of the images and show results of 2D representations allowing for subgroup identification without relying on any expert labels.
+
+### Comprehending documents using AI 
+Aaron Richiger (turicode, ETHZ), Patrick Emmisberger (turicode, ETHZ), Benjamin von Deschwanden (turicode, ETHZ)
+
+#### Abstract 
+Document digitization, meaning the transformation of human-readable documents into a digital, machine-readable representation is among the most common factors driving digitalization in general. The most generic output of document digitization, resulting from e.g. scans, conversions into PDF or optical character recognition (OCR), is so-called unstructured data. However, the unstructured representation of digitized data is often not adequate for subsequent information retrieval, since unstructured data is inherently difficult to process automatically. The difficulty arises from the fact, that the logical structure and semantics of document elements need to be understood in order to be represented in a form suitable for machine interpretation.
+The purpose of our research is to design and implement a generically applicable and interactively parametrizable digitization tool. We transform unstructured PDF documents into structured (e.g. relational database) or semi-structured (e.g. XML) representations, using not only structural, but also application-specific, semantic knowledge. To achieve this, we combine the established rule-based document analysis approach with novel machine learning methods and natural language processing. Moreover, we have developed a document query language (DQL) to concisely define document structure, represent semantic constructs and extract structured data from sets of documents. A web-based user interface provides an interactive way to define and execute DQL queries, making it possible to instantaneously visualize query results.
+
 
 
 
