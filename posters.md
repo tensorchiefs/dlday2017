@@ -79,6 +79,25 @@ Document digitization, meaning the transformation of human-readable documents in
 The purpose of our research is to design and implement a generically applicable and interactively parametrizable digitization tool. We transform unstructured PDF documents into structured (e.g. relational database) or semi-structured (e.g. XML) representations, using not only structural, but also application-specific, semantic knowledge. To achieve this, we combine the established rule-based document analysis approach with novel machine learning methods and natural language processing. Moreover, we have developed a document query language (DQL) to concisely define document structure, represent semantic constructs and extract structured data from sets of documents. A web-based user interface provides an interactive way to define and execute DQL queries, making it possible to instantaneously visualize query results.
 
 
+### Text Mining and Structuring Enterprise Know-How: Making Administrative Processes more efficient
+ 
+Stefan M. Scholz-Odermatt (SUVA)
+
+#### Abstract 
+Administrative data usually are a mixture of structured data and texts. These two types of information fuel administrative processes. We have developed a simple and highly generic data structure for information available to a person in charge of an administrative procedure. This table combines results of text analysis (stemming, language recognition) with conventionally structured attribute data.
+
+This universe of data also contains the complete enterprise know-how, the entirety of correlations between all attributes and administrative processes. This enterprise know-how is an abstract type of knowledge, and it does not contain any information from individual cases. We use Naïve Bayes Classifiers and/or Neural Network weights in order to represent enterprise know-how, which is brought into a very generic tabular form as well. Upgrading to more complex multi-layer approaches can be discussed and deeper learning algorithms are under consideration.
+
+The expertise obtained this way is used to support the person in charge of an administrative process, by supplying proposals for the next steps to be taken. Real world use cases are presented for 
+
+•	classifications (i.e. proposing a shortlist of most probable codes for accident causation for coding purposes), or
+
+•	rankings (i.e. proposing a list of patients with highest expected likelihood to benefit from rehab), or 
+
+•	data cleansing (i.e. finding inconsistent data plus indication of the variable which is most likely to be corrected).
+
+The action chosen by the person in charge is used as a feedback for supervised learning. 
+
 
 
 
