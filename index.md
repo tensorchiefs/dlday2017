@@ -6,7 +6,7 @@ title: DL-Day 2017
 
 ## Deep Learning Day
 
-We had great fun organizing the first [deep learning day](https://sites.google.com/site/sdsdlday2016/) and are pleased to anounce a second run on 09/22/2017. We would like to have an **active participation** and encourage you to send in an abstract for a poster or talk. Note that the **number of participants will be limited to 50** persons.
+We had great fun organizing the first [deep learning day](https://sites.google.com/site/sdsdlday2016/) and are pleased to anounce a second run on 09/22/2017. We would like to have an **active participation** and encourage you to send in an abstract for a poster or talk. Note that the **number of participants will be limited to 60** persons.
 
 ### Important Facts
 * Dates: 
