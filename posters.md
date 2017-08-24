@@ -41,7 +41,7 @@ Intracranial aneurysms are focal malformations of cerebral arteries that indicat
 
 
 ### D-MAC : DNN powered Medical-Audio Compiler
-Ketaki Joshi (NVIDEA)
+Ketaki Joshi (NVIDIA)
 
 #### Abstract
 
