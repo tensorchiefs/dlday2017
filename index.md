@@ -11,7 +11,7 @@ We had great fun organizing the first [deep learning day](https://sites.google.c
 ### Important Facts
 * Dates: 
   * Date of the workshop 22. September 2017
-  * We still accept abstracts for posters on deep learning topics (as long we have poster space available). 
+  * We still accept abstracts for posters and spotlight talks on deep learning topics (as long we have poster space available). 
   * 10th of August deadline for talk abstracts.
   * 14th of August notification of acceptance for a talk.
   * 15th of August opening of registration (cost approx. 50 CHF)
@@ -34,7 +34,7 @@ Time | Presenter | Topic
 10:10 - 10:30 | Coffee Break | Coffe Break
 10:30 - 12:15 | Gunter Roth (NVIDIA) | [Medical Image Analysis with R and MXNet](https://developer.nvidia.com/dli/onlinelabs)
 12:15 - 13:30 | -- | Lunch at your own expense (e.g. Mensa ZHAW)
-13:30 - 14:10 | Dirk von Grünigen (t.b.c) | [Natural Language Dialogues with Sequence-to-Sequence Learning](grun.md)
+13:30 - 14:10 | Dirk von Grünigen | [Natural Language Dialogues with Sequence-to-Sequence Learning](grun.md)
 14:10 - 15:30 | Gunter Roth (NVIDIA) | [Modelling Time Series Data with Recurrent Neural Networks in Keras](https://developer.nvidia.com/dli/onlinelabs)
 15:30 - 16:00 | Various | Spotlight Talks and closing
 16:00 -  | You | [Posters](posters.md) and Apero
