@@ -10,7 +10,7 @@ We had great fun organizing the first [deep learning day](https://sites.google.c
 
 ### Important Facts
 * Dates: 
-  * Date of the workshop 22. September 2017
+  * Date of the workshop 22. September 2017  
   * We still accept abstracts for posters and spotlight talks on deep learning topics (as long we have poster space available). 
   * 10th of August deadline for talk abstracts.
   * 14th of August notification of acceptance for a talk.
