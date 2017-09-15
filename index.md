@@ -30,7 +30,7 @@ Time | Presenter | Topic
 -----|-----------|----------------------
 9:00 - 9:15  | --        | Arriving
 9:15 - 9:30  | Oliver and Beate | Welcome
-9:30 - 10:10 | Kevin Mader (4 Quant) | [Approaches and Challegenges for using Artificial Inteligence in Medial Imaging](mader.md) 
+9:30 - 10:10 | Kevin Mader (4 Quant) | [Approaches and Challegenges for using Artificial Inteligence in Medical Imaging](mader.md) 
 10:10 - 10:30 | Coffee Break | Coffe Break
 10:30 - 12:15 | Gunter Roth (NVIDIA) | [Tutorial: Medical Image Analysis with R and MXNet](https://developer.nvidia.com/dli/onlinelabs)
 12:15 - 13:30 | -- | Lunch at your own expense (e.g. Mensa ZHAW)
