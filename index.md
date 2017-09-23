@@ -34,8 +34,8 @@ Time | Presenter | Topic
 10:15 - 10:30 | Coffee Break | Coffe Break
 10:30 - 12:15 | Gunter Roth (NVIDIA) | [Tutorial: Medical Image Analysis with R and MXNet](https://developer.nvidia.com/dli/onlinelabs)
 12:15 - 13:30 | -- | Lunch at your own expense (e.g. Cafetaria ZHAW)
-13:10 - 13:30 | Oliver | Short intro to RNNs [slides](talks/intro_rnn)
-13:30 - 14:10 | Dirk von Grünigen | Natural Language Dialogues with Sequence-to-Sequence Learning([abstract](grun.md), [slides](talks/Natural_Language_Dialogues_with_Seq2Seq))
+13:10 - 13:30 | Oliver | Short intro to RNNs [slides](talks/intro_rnn.pdf)
+13:30 - 14:10 | Dirk von Grünigen | Natural Language Dialogues with Sequence-to-Sequence Learning([abstract](grun.md), [slides](talks/Natural_Language_Dialogues_with_Seq2Seq.pdf))
 14:10 - 15:30 | Gunter Roth (NVIDIA) | [Tutorial: Modelling Time Series Data with Recurrent Neural Networks in Keras](https://developer.nvidia.com/dli/onlinelabs)
 15:30 - 16:00 | Various | Spotlight Talks and closing
 16:00 -  | You | [Posters](posters.md) and Apero
