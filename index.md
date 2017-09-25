@@ -29,7 +29,8 @@ Details can be found on [abstract submission](abstract)
 Time | Presenter | Topic 
 -----|-----------|----------------------
 9:00 - 9:15  | --        | Arriving
-9:15 - 9:35  | Oliver and Beate | Welcome and short intro to CNNs
+9:15 - 9:25  | Oliver, Beate and Elvis | Welcome 
+9:25 - 9:35  | Beate | Short intro to CNNs [slides](talks/CNN-Intro.pdf)
 9:35 - 10:15 | Kevin Mader (4 Quant) | Approaches and Challegenges for using Artificial Inteligence in Medical Imaging ([abstract](mader.md), [slides](https://docs.google.com/presentation/d/10tEDsTAoOI5Iaaf0AwmXzAHLa9_1vwRJfIgKceqyFX4/edit#slide=id.g1f782b6f24_1_264)) 
 10:15 - 10:30 | Coffee Break | Coffe Break
 10:30 - 12:15 | Gunter Roth (NVIDIA) | [Tutorial: Medical Image Analysis with R and MXNet](https://developer.nvidia.com/dli/onlinelabs)
